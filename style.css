@@ -25,7 +25,11 @@
   font-size: 20px;
 }
 
-.team {
+.team h1 {
+  text-align: center;
+}
+
+.team-cards {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
