@@ -5,12 +5,32 @@
   gap: 25px;
 }
 
+.homepage {
+  text-align: center;
+  min-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.homepage h1 {
+  font-size: 70px;
+}
+
+.homepage span {
+  font-size: 35px;
+}
+
+.description {
+  font-size: 20px;
+}
+
 .team {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   gap: 100px;
-  padding: 20px;
+  padding-top: 40px;
 }
 
 .card {
@@ -36,3 +56,6 @@
   height: auto;
 }
 
+footer {
+  text-align: center;
+}
