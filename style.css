@@ -55,12 +55,6 @@
   flex: 1;
 }
 
-.profile img {
-  width: 200px;
-  height: auto;
-}
-
-<<<<<<< HEAD
 .profile-image {
     border-radius: 50%;
     border: 3px solid #2C3E50;
@@ -71,8 +65,3 @@
     width: 200px;
     height: 200px;
 }
-=======
-footer {
-  text-align: center;
-}
->>>>>>> 562fd9240526eb8ffae39d83bb800bf517e67acd
