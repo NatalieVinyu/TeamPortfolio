@@ -1,6 +1,30 @@
+.navbar {
+  width: 100%;
+  top: 0;
+  background-color: #2C3E50;
+  display: flex;
+  justify-content: center;
+}
+
+.navbar ul {
+    display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 10px;
+  gap: 25px;
+}
+
+.navbar ul li a {
+  text-decoration: none;
+  font-size: 18px;
+  color: white;
+}
+
 h1 {
     font-family: Poppins, sans-serif;
 }
+
+
 
 p{
     font-family: Poppins, sans-serif;
@@ -37,7 +61,7 @@ header h1 {
     font-size: 2.5em;
 }
 
-p {
+p, h3 {
     font-size: 1.1em;
     margin: 1em auto;
     max-width: 600px;

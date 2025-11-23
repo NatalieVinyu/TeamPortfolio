@@ -169,22 +169,6 @@ body {
   }
 }
 
-.contact {
-    background-color: #2C3E50;
-    color: #ffffff;
-    text-align: center;
-    padding: 1.5em 0;
-}
-
-.contact a {
-    color: #7FDBFF;
-    text-decoration: none;
-}
-
-.contact a:hover {
-    text-decoration: underline;
-}
-
 footer {
   text-align: center;
   background-color: #2C3E50;
