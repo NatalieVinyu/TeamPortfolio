@@ -49,6 +49,7 @@ body {
 
 .description {
   font-size: 20px;
+  margin: 30px;
 }
 
 .team h1 {
@@ -82,7 +83,6 @@ body {
   padding: 10px;
   text-decoration: none;
 }
-
 
 .container {
   margin: 50px;
@@ -118,4 +118,9 @@ body {
     margin: 0 auto 1em;
     width: 200px;
     height: 200px;
+}
+
+footer {
+  text-align: center;
+  padding: 30px;
 }
