@@ -92,12 +92,26 @@
   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
 }
 
+.container {
+  margin: 50px;
+}
+
 .profile {
   display: flex;
 }
 
+.profile h1 {
+  font-size: 50px;
+}
+
+.profile img {
+  width: 300px;
+  height: auto;
+}
+
 .info {
   flex: 1;
+  padding: 20px;
 }
 
 .profile-image {
