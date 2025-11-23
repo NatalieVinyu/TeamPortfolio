@@ -1,6 +1,6 @@
 # TeamPortfolio
 Team Portfolio Website
 
-##Tech Stack
+## Tech Stack
 * HTML
 * CSS
