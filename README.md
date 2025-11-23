@@ -1,2 +1,0 @@
-# TeamPortfolio
-Team Portfolio Website
